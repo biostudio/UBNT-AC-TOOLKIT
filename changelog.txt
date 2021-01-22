@@ -1,0 +1,100 @@
+v4.3 - 18/01/2021 - Changelog:
+====
+
+New:
+- Support Firmwares 2XC / 2WA (Experimental)
+- Support Devices R2AC / NBE-2AC-13 / PBE-2AC-400 (Experimental)
+- Support Devices B-DB-AC / BulletAC-IP67 (Experimental)
+- Support Devices LAP-GPS / LBE-5AC-LR (Experimental)
+
+Added features:
+- Add: SSH Port.
+- Add: Tools > Web.
+- Add: View > Tool Buttons.
+- Add: Country List: Algeria, Bangladesh, Japan, Paraguay, Yemen & Zimbabwe.
+
+Fixes:
+- Fix: Firmwares List Update.
+- Fix: Discovery download.
+- Fix: Error connection disconnect.
+
+Improvements:
+- Stability improvements.
+
+v4.2 - 23/01/2018 - Changelog:
+====
+
+New:
+- New: Design Material!
+- New: Software Upgrade v2.18.
+
+Added features:
+- Add: ShortcutKeys.
+- Add: Country List.
+- Add: Language Česky, Lietuviškai & 中文 （简体）.
+- Add: NS-5AC & NS-5ACL.
+- Add: Update Firmware Versions (Help > Updates > Firmwares).
+
+Fixes:
+- Fix: Images of Equipamients.
+- Fix: Already connected message error.
+- Fix: Remove Code Value to Disconnect.
+- Fix: Translation of the Alternative Button.
+- Fix: Installation of new font.
+- Fix: Translation to Portuguese, Français & Deutsch.
+- Fix: Validation of IP addresses.
+- Fix: DragControl.
+- Fix: Wrong socket state 0 in CanReceive (error code is 96258).
+
+Improvements:
+- Stability improvements.
+
+
+v4.1 - 25-08-2017 - Changelog:
+====
+
+New:
+- New: Design!
+
+Added features:
+- Add: Translation to Italiano.
+- Add: Tools > Tracert.
+- Add: Tools > airLink.
+- Add: Tools > Discovery.
+- Add: View > Password.
+- Add: Image in Compatibility List.
+- Add: Compatibility List > Firmwares Beta.
+
+Updates:
+- Update: Compatibility List > Equipment.
+- Update: Compatibility List > Firmwares.
+- Update: Compatibility List > Firmwares Beta.
+
+Improvements:
+- Stability improvements.
+
+Fixes:
+- Fix: Persistent language.
+- Fix: Donation buttons error.
+
+
+v2.0 - 29-04-2016 - Changelog:
+====
+
+Added features:
+- Add: Translation to Spanish, English, Portuguese, French & German. 
+- Add: Information about the device: Platform and Firmware version.
+- Add: Tools > Ping. 
+- Add: Compatibility List & Firmwares. 
+- Add: Help, Report Operation and Bugs. 
+- Add: Connection Status. 
+- Add: Disconnect.
+
+Improvements:
+- Does not require Telnet. 
+
+
+v1.0 - 26-01-2016 - Changelog:
+====
+
+- First release version.
