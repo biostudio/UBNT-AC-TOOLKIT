@@ -1,11 +1,33 @@
+v4.4 - 04/01/2024 - Changelog:
+====
+
+New:
+- Support PBE-5AC-ISO-GEN2 (Experimental)
+- Support LBE-5AC-XR (Experimental)
+
+Added features:
+- Add: Tools > WiFiman.
+- Add: Tools > gping (Ping, but with a graph).
+- Add: Country List: Canada (Licensed) & Eswatini.
+- Add: New Ubiquiti icon.
+
+Fixes:
+- Fix: Firmwares List Update.
+- Fix: ubnt-discovery. Now requires: Java SE Development Kit 7u80 to run.
+- Fix: Name change from airLink Link Calculator to UISP Design Center.
+- Fix: Updater.
+
+Improvements:
+- Stability improvements.
+
 v4.3 - 18/01/2021 - Changelog:
 ====
 
 New:
 - Support Firmwares 2XC / 2WA (Experimental)
-- Support Devices R2AC / NBE-2AC-13 / PBE-2AC-400 (Experimental)
-- Support Devices B-DB-AC / BulletAC-IP67 (Experimental)
-- Support Devices LAP-GPS / LBE-5AC-LR (Experimental)
+- Support R2AC / NBE-2AC-13 / PBE-2AC-400 (Experimental)
+- Support B-DB-AC / BulletAC-IP67 (Experimental)
+- Support LAP-GPS / LBE-5AC-LR (Experimental)
 
 Added features:
 - Add: SSH Port.
