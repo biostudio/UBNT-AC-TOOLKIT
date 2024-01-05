@@ -1,24 +1,17 @@
 <h1 align="center">Welcome to UBNT-AC-TOOLKIT 👋</h1>
-<p align="center">
-  <a href="https://github.com/biostudio/UBNT-AC-TOOLKIT/releases/latest">
-    <img alt="Version" src="https://img.shields.io/github/v/release/biostudio/UBNT-AC-TOOLKIT?color=important&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/biostudio/UBNT-AC-TOOLKIT/releases/latest">
-    <img alt="Date" src="https://img.shields.io/github/release-date/biostudio/UBNT-AC-TOOLKIT?style=for-the-badge" />
-  </a>
-  <a href="https://store.biostudio.com.ar/" target="_blank">
-    <img alt="Store" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fstore.biostudio.com.ar" />
-  </a>
-  <a href="https://github.com/biostudio/UBNT-AC-TOOLKIT/stargazers" target="_blank">
-    <img alt="Stars" src="https://img.shields.io/github/stars/biostudio/UBNT-AC-TOOLKIT?color=success&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/biostudiocorp" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/biostudiocorp?color=success&label=Follow&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/biostudio/UBNT-AC-TOOLKIT/releases/latest" target="_blank">
-    <img alt="Downloads Releases (by All Release)" src="https://img.shields.io/github/downloads/biostudio/UBNT-AC-TOOLKIT/total?color=success&style=for-the-badge" />
-  </a>
-</p>
+
+<div align="center">
+
+[![GitHub Releases](https://img.shields.io/github/v/release/biostudio/UBNT-AC-TOOLKIT?color=important&style=for-the-badge)](https://github.com/biostudio/UBNT-AC-TOOLKIT/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/biostudio/UBNT-AC-TOOLKIT?style=for-the-badge)](https://github.com/biostudio/UBNT-AC-TOOLKIT/releases)
+[![GitHub issues](https://img.shields.io/bitbucket/issues/biostudio/UBNT-AC-TOOLKIT?style=for-the-badge)](https://github.com/biostudio/UBNT-AC-TOOLKIT/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/biostudio/UBNT-AC-TOOLKIT?style=for-the-badge)](https://github.com/biostudio/UBNT-AC-TOOLKIT/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/biostudio/UBNT-AC-TOOLKIT?style=for-the-badge)](https://github.com/biostudio/UBNT-AC-TOOLKIT/fork)
+[![GitHub stars](https://img.shields.io/github/stars/biostudio/UBNT-AC-TOOLKIT?style=for-the-badge)](https://github.com/biostudio/UBNT-AC-TOOLKIT/stargazers)
+[![BioStudio Store](https://img.shields.io/badge/BioStudio-Store-ab0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAJlSURBVDhPjVNPSNphGH7UX+oipo3AhkQEwiSWCZJ/D62TDvGwhiAddgq2245CrIMMdusS0fDiYdDBMfBQMINhdHJqjCa5CcMRgnhp0USYLvXX+37+dAs69MD3732f9/ne7/2+T4X/4Ha776hUqoeyLM9Q0ypmkE2modHpdErBYPA0Fov1+h7yced0OpeI9IJagJZ3KRhqtRoajYbd6Ha76PVEDHc/ifeBOO9yudx3IeByudJE9ttsNni9XtjtdpjNZuj1enaj1WqhVqvh+PgY2WwWxWIRlE2aBB4LAgtsbW2R6O0Qj8dlivnIsZJQIHC6nCrvQBxh4wysk5No0o6SwYB7CwvQ6HRck64gEIYCjHa7jWg0KuYseP/8HE/LZUhUD5nEx+l4S4eHXJ9+cQjXBAawWq0IhUL4vL4ONWVj29yEZnQUuLwUQpSBwgTUyngNlUoFiUQC+bExfJuawo+NDXxZXcXpzg56LKIckXGjgM/nQzKZRGR6Gjq6AU86jQdra/h1cICLUklh9TE8Aql2aBDrTCYj2nSjgSdnZ/hksbAZ4x4PxufmQPco1oyhABVG4qpvb28PUzQajTBPTOA3BYzQLRhmZ/lZCh9BTAYCf46OjhCJRP7Oz88Pn/AAE1T9AZrNJgqFAhcyy2tRA0mSXp6cnORWVla0u7u7/MrYfA1s29vb40069CLf+P3+12wf5hMOhzXVavUZTddMJpNleXkZgQB/DWB/fx+pVKpTr9fTdLxX+Xz+q3AQ/l2oAofDMaLVaoP0eZ5Tmo/IdEHtPc3f0istC9JtQb90ZnFxsf+jbgRwBY0NDWvTpifDAAAAAElFTkSuQmCC)](https://store.biostudio.com.ar/)
+[![GitHub Releases (by Release)](https://img.shields.io/github/downloads/biostudio/UBNT-AC-TOOLKIT/total?color=success&style=for-the-badge)](https://github.com/biostudio/UBNT-AC-TOOLKIT/releases/tag/4.4)
+
+</div>
 
 <p align="center">
   <a href="https://github.com/biostudio/UBNT-AC-TOOLKIT/releases/latest">
@@ -30,7 +23,7 @@
 
 ## Prerequisites
 
-- [Microsoft Windows](https://www.microsoft.com/windows) >= 8.1
+- [Microsoft Windows](https://www.microsoft.com/windows) >= [8.1 (support ended)](https://support.microsoft.com/en-us/windows/windows-8-1-support-ended-on-january-10-2023-3cfd4cde-f611-496a-8057-923fba401e93) / 10 / 11
 - [Microsoft .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) >= 4.5.2
 - [Lato font family (Desktop version)](https://www.latofonts.com/lato-free-fonts/) >= 2.015
 
@@ -96,4 +89,4 @@ USING THE SOFTWARE.
 
 ## 📝 Rights Information
 
-Copyright © 2021 [BioStudio](https://github.com/biostudio).<br />
+Copyright © 2024 [BioStudio](https://github.com/biostudio).<br />
